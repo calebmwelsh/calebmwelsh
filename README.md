@@ -8,9 +8,7 @@
 
 ###  
 <p align="left">
-🎓 Attended Purdue University for my Bachelor's Degree in Cyber Security<br>
-🎓 Currently pursuing my Master's in Data Science at Purdue University<br>
-🎯 Passionate about cybersecurity, automation, and cloud technologies  
+🎯 Passionate about Cyber Security, Automation, Cloud Technologies, and ML
 </p>
 
 ###  
@@ -34,35 +32,6 @@
 <img src="kalilinux_white.svg" width="40" alt="Kali Linux logo" />
 </div>
 
-###  
-<h2 align="left">Experience</h2>  
-
-###  
-<h3>IT Specialist - DFAS (Internship)</h3>  
-📅 May 2024 - Aug 2024 | Indianapolis, IN (Hybrid)  
-- Implemented FISCAM and RMF security controls for federal compliance  
-- Conducted risk assessments, identified vulnerabilities, and applied mitigations  
-- Managed IAM solutions, including role-based access controls (RBAC)  
-
-###  
-<h3>Security Engineer - DNAnexus (Internship)</h3>  
-📅 May 2022 - Aug 2022 | Remote  
-- Deployed apps on AWS and Terraform  
-- Designed and implemented web service APIs  
-- Developed automation for user and device management  
-
-###  
-<h3>Undergraduate Researcher - Viasat Inc.</h3>  
-📅 Aug 2021 - May 2022 | West Lafayette, IN  
-- Worked on ML and NLP for image processing and super-resolution  
-- Part of Purdue's DataMine Corporate Partners Program  
-
-###  
-<h3>Summer Intern - V&N Advanced Automation Systems</h3>  
-📅 Aug 2020 | Rockledge, FL  
-- Gained exposure to system design, R&D, and automation  
-
-###  
 <h2 align="left">Projects</h2>  
 
 ###  
@@ -83,25 +52,13 @@
 ###  
 <h2 align="left">Technical Skills</h2>  
 
-###  
-- **Languages:** Python (pandas, Selenium, Google API), Java, C, SQL  
-- **Cloud & Security Tools:** AWS (Lambda, DynamoDB, S3), Okta, GCP, Qualys, CrowdStrike  
-- **Incident Response Tools:** ELK Stack, Elastalert, Sigma/Snort Rules, Security Onion, Wazuh, Chainsaw, Thor, Time Sketch  
-- **Pentest Tools:** Metasploit Console  
-- **Automation:** Tines  
-- **Operating Systems:**  
-  - Unix (Kali, Ubuntu, CentOS, Debian, Rocky, Raspberry Pi, pfSense)  
-  - Windows (10, 11, Server 2008, 2019, 2022)  
-  - macOS (Catalina - Sequoia)  
-- **Governance, Risk, & Compliance:** RMF, FISCAM  
 
-###  
 <h2 align="left">Education</h2>  
 
 ###  
 📍 **Purdue University**  
-🎓 **B.S. in [Your Major]**  
-🎓 **M.S. in Data Science (In Progress)**  
+🎓 **B.S. in Cyber Security from Purdue**  
+🎓 **M.S. in Data Science from Purdue (In Progress)**  
 📊 **GPA: 4.0**  
 
 ###  
