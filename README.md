@@ -32,7 +32,7 @@
 <img src="kalilinux_white.svg" width="40" alt="Kali Linux logo" />
 </div>
 
-<h2 align="left">Projects</h2>  
+<h2 align="left">External Projects</h2>  
 
 ###  
 <h3>User Management Alert System</h3>  
@@ -50,9 +50,6 @@
 - Implemented session management and notification systems  
 
 ###  
-<h2 align="left">Technical Skills</h2>  
-
-
 <h2 align="left">Education</h2>  
 
 ###  
