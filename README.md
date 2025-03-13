@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo" />
 <img width="12" />
 <!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="40" alt="Kali Linux logo" /> -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" width="40" style="filter: invert(50%) sepia(0%) saturate(0%) hue-rotate(20deg) brightness(200%) contrast(100%);" alt="Kali Linux logo" />
+<img src="kalilinux_white.svg" width="40" alt="Kali Linux logo" />
 </div>
 
 ###  
