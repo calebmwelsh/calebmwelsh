@@ -1,7 +1,7 @@
 <h1 align="left">Hey, what's up?</h1>
 
 ###  
-<p align="left">My name is Caleb Welsh, and I'm an aspiring data and security professional!</p>
+<p align="left">Hi, I'm an aspiring data and security professional!</p>
 
 ###  
 <h2 align="left">About Me</h2>  
