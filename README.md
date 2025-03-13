@@ -8,7 +8,7 @@
 
 ###  
 <p align="left">
-🎯 Passionate about Cyber Security, Automation, Cloud Technologies, and ML
+🎯 Passionate about Cybersecurity, Automation, Cloud Technologies, and ML
 </p>
 
 ###  
@@ -57,7 +57,7 @@
 
 ###  
 📍 **Purdue University**  
-🎓 **B.S. in Cyber Security from Purdue**  
+🎓 **B.S. in Cybersecurity from Purdue**  
 🎓 **M.S. in Data Science from Purdue (In Progress)**  
 📊 **GPA: 4.0**  
 
