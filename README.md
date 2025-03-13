@@ -26,13 +26,12 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+<!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="40" alt="Kali Linux logo" /> -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" width="40" style="filter: invert(50%) sepia(0%) saturate(0%) hue-rotate(20deg) brightness(200%) contrast(100%);" alt="Kali Linux logo" />
 </div>
 
 ###  
