@@ -1,7 +1,7 @@
 <h1 align="center">Hey, what's up? I'm Caleb! 🚀</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="800" alt="Cyberpunk Aesthetic Banner">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="Cyberpunk Aesthetic Banner">
 </p>
 
 ### 🎓 About Me
@@ -15,13 +15,35 @@ I'm a **Data Science Master's student at Purdue University** with a background i
 ---
 
 ### ♟️ Chess Corner
+Click on a move to play against the community! The board updates automatically.
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/main/chess.png" width="400px" alt="Chess Board">
-  <br/>
-  <a href="https://github.com/calebmwelsh/calebmwelsh/issues/new?title=chess%7Cnew">New game</a> | 
+<!-- BEGIN CHESS BOARD -->
+<!-- END CHESS BOARD -->
+</p>
+
+<p align="center">
+<b>Whose turn?</b><br/>
+<!-- BEGIN TURN -->
+<!-- END TURN -->
+</p>
+
+<p align="center">
+<b>Available Moves</b><br/>
+<!-- BEGIN MOVES LIST -->
+<!-- END MOVES LIST -->
+</p>
+
+<p align="center">
   <a href="https://www.chess.com/member/HongKongPh00ie">
     <img src="https://chess-com-profile-widget.onrender.com/widget?username=HongKongPh00ie&theme=black&logo=true" alt="Chess.com Profile Widget" height="150" />
   </a>
+</p>
+
+#### 📉 Chess.com Stats & History
+<p align="left">
+<!-- BEGIN LAST MOVES -->
+<!-- END LAST MOVES -->
 </p>
 
 #### 📈 Rapid Rating Progress
@@ -32,7 +54,7 @@ I'm a **Data Science Master's student at Purdue University** with a background i
 
 ### 🐍 Contribution Journey
 Watching the snake eat my commits!
-*(Note: This animation generates after your first commit push)*
+*(Note: Animation appears after your first push and Action run)*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake-dark.svg">
@@ -57,9 +79,7 @@ Watching the snake eat my commits!
 ---
 
 ### 🛠️ Featured Projects
-Here are some of the public projects I've been working on:
-
-- **[ClashAutomation](https://github.com/calebmwelsh/ClashAutomation)**: Experimental automation framework for Clash of Clans using vision-based detection (Python).
+- **[ZeldaALTTP-RL](https://github.com/calebmwelsh/ZeldaALTTP-RL)**: A reinforcement learning environment for Zelda: A Link to the Past (GBA) that utilizes Python and mGBA bindings to enable AI agents to learn through interaction.
 - **[USCF-Tournament-Ingest](https://github.com/calebmwelsh/USCF-Tournament-Ingest)**: End-to-end data pipeline for extracting United States Chess Federation tournament info (Python).
 - **[ARCGIS-Automation](https://github.com/calebmwelsh/ARCGIS-Automation)**: Tool for exploring and extracting property data from ArcGIS Feature Services (HTML/JS).
 - **[Anime-Dataset-Compiler](https://github.com/calebmwelsh/Anime-Dataset-Compiler)**: Comprehensive anime dataset collector using AniList GraphQL API (Python).
