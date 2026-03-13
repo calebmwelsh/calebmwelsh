@@ -15,26 +15,11 @@ I'm a **Data Science Master's student at Purdue University** with a background i
 ---
 
 ### ♟️ Chess Corner
-Click on a move to play against the community! The board updates automatically.
 
-<p align="center">
-<table>
-<tr>
-<td valign="top">
-
-<!-- BEGIN CHESS BOARD -->
-<!-- END CHESS BOARD -->
-
-<p align="center">
-<b>Whose turn?</b><br/>
-<!-- BEGIN TURN -->
-<!-- END TURN -->
-</p>
-
-</td>
-<td valign="top" width="400">
+<div align="center">
 
 #### 📈 Rapid Rating Progress
+
 <!-- START_CHESS_CHART -->
 ```
 # ♟︎ Chess.com Ratings Chart #
@@ -64,22 +49,7 @@ Chart last updated - Fri Mar 13 14:49:57  2026
   </a>
 </p>
 
-</td>
-</tr>
-</table>
-</p>
-
-<p align="center">
-<b>Available Moves</b><br/>
-<!-- BEGIN MOVES LIST -->
-<!-- END MOVES LIST -->
-</p>
-
-#### 📉 Recent Moves History
-<p align="left">
-<!-- BEGIN LAST MOVES -->
-<!-- END LAST MOVES -->
-</p>
+</div>
 
 ---
 
