@@ -64,8 +64,6 @@ Click on a move to play against the community! The board updates automatically.
 ---
 
 ### 🐍 Contribution Journey
-Watching the snake eat my commits!
-*(Note: Animation appears after your first push and Action run)*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake-dark.svg">
@@ -89,7 +87,7 @@ Watching the snake eat my commits!
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Recent Projects
 - **[ZeldaALTTP-RL](https://github.com/calebmwelsh/ZeldaALTTP-RL)**: A reinforcement learning environment for Zelda: A Link to the Past (GBA) that utilizes Python and mGBA bindings to enable AI agents to learn through interaction.
 - **[USCF-Tournament-Ingest](https://github.com/calebmwelsh/USCF-Tournament-Ingest)**: End-to-end data pipeline for extracting United States Chess Federation tournament info (Python).
 - **[ARCGIS-Automation](https://github.com/calebmwelsh/ARCGIS-Automation)**: Tool for exploring and extracting property data from ArcGIS Feature Services (HTML/JS).
