@@ -18,14 +18,35 @@ I'm a **Data Science Master's student at Purdue University** with a background i
 Click on a move to play against the community! The board updates automatically.
 
 <p align="center">
+<table>
+<tr>
+<td valign="top">
+
 <!-- BEGIN CHESS BOARD -->
 <!-- END CHESS BOARD -->
-</p>
 
 <p align="center">
 <b>Whose turn?</b><br/>
 <!-- BEGIN TURN -->
 <!-- END TURN -->
+</p>
+
+</td>
+<td valign="top" width="400">
+
+#### 📈 Rapid Rating Progress
+<!-- START_CHESS_CHART -->
+<!-- END_CHESS_CHART -->
+
+<p align="center">
+  <a href="https://www.chess.com/member/HongKongPh00ie">
+    <b>Profile: HongKongPh00ie</b>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 </p>
 
 <p align="center">
@@ -34,21 +55,11 @@ Click on a move to play against the community! The board updates automatically.
 <!-- END MOVES LIST -->
 </p>
 
-<p align="center">
-  <a href="https://www.chess.com/member/HongKongPh00ie">
-    <img src="https://chess-com-profile-widget.onrender.com/widget?username=HongKongPh00ie&theme=black&logo=true" alt="Chess.com Profile Widget" height="150" />
-  </a>
-</p>
-
-#### 📉 Chess.com Stats & History
+#### 📉 Recent Moves History
 <p align="left">
 <!-- BEGIN LAST MOVES -->
 <!-- END LAST MOVES -->
 </p>
-
-#### 📈 Rapid Rating Progress
-<!-- START_CHESS_CHART -->
-<!-- END_CHESS_CHART -->
 
 ---
 
