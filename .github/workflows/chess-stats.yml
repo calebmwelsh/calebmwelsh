@@ -1,0 +1,20 @@
+name: Chess.com Rating Chart
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Chess Rating Chart
+        uses: mmzeynalli/chess-rating-chart@v1.0.3
+        with:
+          chess_username: HongKongPh00ie
+          time_class: rapid
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

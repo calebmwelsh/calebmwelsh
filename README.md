@@ -1,69 +1,89 @@
-<h1 align="left">Hey, what's up?</h1>
+<h1 align="center">Hey, what's up? I'm Caleb! 🚀</h1>
 
-###  
-<p align="left">Hi, I'm an aspiring data and security professional!</p>
-
-###  
-<h2 align="left">About Me</h2>  
-
-###  
-<p align="left">
-🎯 Passionate about Cybersecurity, Automation, Cloud Technologies, and ML
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800" alt="Cyberpunk Aesthetic Banner">
 </p>
 
-###  
-<h2 align="left">My Main Technologies</h2>  
+### 🎓 About Me
+I'm a **Data Science Master's student at Purdue University** with a background in **Cybersecurity**. I'm passionate about building secure, automated systems and leveraging data to solve complex problems.
 
-###  
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="Python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  " height="40" alt="Docker logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo" />
-<img width="12" />
-<!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="40" alt="Kali Linux logo" /> -->
-<img src="kalilinux_white.svg" width="40" alt="Kali Linux logo" />
-</div>
+- 📍 Based in Indiana
+- 🎓 B.S. in Cybersecurity from Purdue
+- 🎓 M.S. in Data Science from Purdue (In Progress)
+- 🎯 Focused on AI, Security Automation, and Cloud Infrastructure
 
-<h2 align="left">External Projects</h2>  
+---
 
-###  
-<h3>User Management Alert System</h3>  
-- Developed a security monitoring system integrating data from APIs like Workspace ONE, Qualys, Okta, Google, and CrowdStrike  
-- Implemented anomaly detection with severity levels and real-time Google Chat alerts  
+### ♟️ Play Chess with Me!
+Click on a move to play against the community! The board updates automatically via GitHub Actions.
 
-###  
-<h3>Automated Web Scraper</h3>  
-- Built a Python/Selenium script to track product availability  
-- Focused on ethical web scraping and automation challenges  
+<!-- ♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/main/chess.png" width="400px" alt="Chess Board">
+</p>
 
-###  
-<h3>Housing Portal Notifier</h3>  
-- Created a Python script to monitor university housing availability  
-- Implemented session management and notification systems  
+[New game](https://github.com/calebmwelsh/calebmwelsh/issues/new?title=chess%7Cnew)
 
-###  
-<h2 align="left">Education</h2>  
+---
 
-###  
-📍 **Purdue University**  
-🎓 **B.S. in Cybersecurity from Purdue**  
-🎓 **M.S. in Data Science from Purdue (In Progress)**  
-📊 **GPA: 4.0**  
+### 🐍 Contribution Journey
+Watching the snake eat my commits!
 
-###  
-<h2 align="left">Connect With Me!</h2>  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake.svg">
+</picture>
 
-###  
-<div align="left">
+---
+
+### 📊 Stats & Progress
+
+#### 🏆 Chess.com Profile
+<p align="center">
+  <a href="https://www.chess.com/member/HongKongPh00ie">
+    <img src="https://chess-com-profile-widget.onrender.com/widget?username=HongKongPh00ie&theme=black&logo=true" alt="Chess.com Profile Widget" />
+  </a>
+</p>
+
+#### 📈 Rapid Rating Progress
+<!-- START_CHESS_CHART -->
+<!-- END_CHESS_CHART -->
+
+<br/>
+
+#### 💻 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=calebmwelsh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebmwelsh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🛠️ Featured Projects
+Here are some of the public projects I've been working on:
+
+- **[ClashAutomation](https://github.com/calebmwelsh/ClashAutomation)**: Experimental automation framework for Clash of Clans using vision-based detection (Python).
+- **[USCF-Tournament-Ingest](https://github.com/calebmwelsh/USCF-Tournament-Ingest)**: End-to-end data pipeline for extracting United States Chess Federation tournament info (Python).
+- **[ARCGIS-Automation](https://github.com/calebmwelsh/ARCGIS-Automation)**: Tool for exploring and extracting property data from ArcGIS Feature Services (HTML/JS).
+- **[Anime-Dataset-Compiler](https://github.com/calebmwelsh/Anime-Dataset-Compiler)**: Comprehensive anime dataset collector using AniList GraphQL API (Python).
+
+---
+
+### 💻 Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,java,sqlite,docker,aws,linux,githubactions,git,vscode" />
+  </a>
+</p>
+
+### 📫 Connect with Me
+<p align="left">
 <a href="https://www.linkedin.com/in/caleb-welsh" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
 </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200">
+</p>

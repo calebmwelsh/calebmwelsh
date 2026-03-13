@@ -1,0 +1,18 @@
+name: Chess Game
+
+on:
+  workflow_dispatch:
+  issues:
+    types: [opened]
+
+jobs:
+  chess:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.title, 'chess|')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Chess game
+        uses: marcizhu/readme-chess@v1.1.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
