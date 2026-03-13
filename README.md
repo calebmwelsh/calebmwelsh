@@ -1,7 +1,7 @@
 <h1 align="center">Hey, what's up? I'm Caleb! 🚀</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="Cyberpunk Aesthetic Banner">
+  <img src="7231-cyberpunk-city.gif" width="1000" alt="Cyberpunk Aesthetic Banner">
 </p>
 
 ### 🎓 About Me
@@ -36,6 +36,26 @@ Click on a move to play against the community! The board updates automatically.
 
 #### 📈 Rapid Rating Progress
 <!-- START_CHESS_CHART -->
+```
+# ♟︎ Chess.com Ratings Chart #
+
+Rapid Rating
+ 2000.00  ┤
+ 1991.82  ┤                                             ╭─╮╭
+ 1983.64  ┤                          ╭╮╭╮╭╮╭─╮         ╭╯ ╰╯
+ 1975.45  ┤                        ╭─╯╰╯╰╯╰╯ ╰╮     ╭╮╭╯
+ 1967.27  ┤                       ╭╯          ╰─╮╭╮╭╯╰╯
+ 1959.09  ┤             ╭╮╭╮╭╮╭╮╭─╯             ╰╯╰╯
+ 1950.91  ┤            ╭╯╰╯╰╯╰╯╰╯
+ 1942.73  ┤           ╭╯
+ 1934.55  ┤          ╭╯
+ 1926.36  ┼╮  ╭╮╭╮╭╮╭╯
+ 1918.18  ┤╰╮╭╯╰╯╰╯╰╯
+ 1910.00  ┤ ╰╯
+
+Chart last updated - Fri Mar 13 14:49:57  2026
+
+```
 <!-- END_CHESS_CHART -->
 
 <p align="center">
