@@ -51,13 +51,11 @@ def generate_chart():
     if not ratings:
         return "No rating data found."
         
-    chart = acp.plot(ratings, {'height': 10})
+    chart = acp.plot(ratings, {'height': 15}) # Restore height for better curve
     
-    # Format the chart output
-    output = f"# ♟︎ Chess.com Ratings Chart #\n\n"
-    output += f"{TIME_CLASS.capitalize()} Rating\n"
-    output += chart
-    output += f"\n\nChart last updated - {datetime.now().strftime('%a %b %d %H:%M:%S %Z %Y')}\n"
+    # Format the chart output with minimal spacing issues
+    output = chart
+    output += f"\n\nChart last updated - {datetime.now().strftime('%a %b %d %H:%M:%S')}"
     return output
 
 if __name__ == "__main__":

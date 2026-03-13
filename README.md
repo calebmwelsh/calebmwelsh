@@ -1,7 +1,7 @@
 <h1 align="center">Hey, what's up? I'm Caleb! 🚀</h1>
 
 <p align="center">
-  <img src="7231-cyberpunk-city.gif" width="1000" alt="Cyberpunk Aesthetic Banner">
+  <img src="https://media1.tenor.com/m/KsvZ1G5XL1UAAAAC/drake-computer.gif" width="1000" alt="Drake Explaining GIF">
 </p>
 
 ### 🎓 About Me
@@ -16,30 +16,29 @@ I'm a **Data Science Master's student at Purdue University** with a background i
 
 ### ♟️ Chess Corner
 
-<div align="center">
-
 #### 📈 Rapid Rating Progress
 
 <!-- START_CHESS_CHART -->
 ```
-# ♟︎ Chess.com Ratings Chart #
-
-Rapid Rating
  2000.00  ┤
- 1991.82  ┤                                             ╭─╮╭
- 1983.64  ┤                          ╭╮╭╮╭╮╭─╮         ╭╯ ╰╯
- 1975.45  ┤                        ╭─╯╰╯╰╯╰╯ ╰╮     ╭╮╭╯
- 1967.27  ┤                       ╭╯          ╰─╮╭╮╭╯╰╯
- 1959.09  ┤             ╭╮╭╮╭╮╭╮╭─╯             ╰╯╰╯
- 1950.91  ┤            ╭╯╰╯╰╯╰╯╰╯
- 1942.73  ┤           ╭╯
- 1934.55  ┤          ╭╯
- 1926.36  ┼╮  ╭╮╭╮╭╮╭╯
- 1918.18  ┤╰╮╭╯╰╯╰╯╰╯
+ 1994.38  ┤                                             ╭─╮╭
+ 1988.75  ┤                          ╭╮╭╮╭╮╭─╮         ╭╯ ╰╯
+ 1983.12  ┤                          │││││││ │         │
+ 1977.50  ┤                        ╭─╯╰╯╰╯╰╯ ╰╮     ╭╮╭╯
+ 1971.88  ┤                       ╭╯          ╰╮    │╰╯
+ 1966.25  ┤                      ╭╯            ╰╮╭╮╭╯
+ 1960.62  ┤                      │              ╰╯╰╯
+ 1955.00  ┤             ╭╮╭╮╭╮╭╮╭╯
+ 1949.38  ┤            ╭╯╰╯╰╯╰╯╰╯
+ 1943.75  ┤           ╭╯
+ 1938.12  ┤           │
+ 1932.50  ┤          ╭╯
+ 1926.88  ┼╮  ╭╮╭╮╭╮╭╯
+ 1921.25  ┤╰╮╭╯╰╯╰╯╰╯
+ 1915.62  ┤ ││
  1910.00  ┤ ╰╯
 
-Chart last updated - Fri Mar 13 14:49:57  2026
-
+Chart last updated - Fri Mar 13 15:45:55
 ```
 <!-- END_CHESS_CHART -->
 
@@ -48,8 +47,6 @@ Chart last updated - Fri Mar 13 14:49:57  2026
     <b>Profile: HongKongPh00ie</b>
   </a>
 </p>
-
-</div>
 
 ---
 
