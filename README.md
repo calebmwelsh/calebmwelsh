@@ -7,7 +7,7 @@
 ### 🎓 About Me
 I'm a **Data Science Master's student at Purdue University** with a background in **Cybersecurity**. I'm passionate about building secure, automated systems and leveraging data to solve complex problems.
 
-- 📍 Based in Indiana
+- 📍 Based in Chicago
 - 🎓 B.S. in Cybersecurity from Purdue
 - 🎓 M.S. in Data Science from Purdue (In Progress)
 - 🎯 Focused on AI, Security Automation, and Cloud Infrastructure
