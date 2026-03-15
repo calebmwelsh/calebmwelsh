@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Chess Rating Chart
-        uses: mmzeynalli/chess-rating-chart@v1.0.3
+        uses: mmzeynalli/chess-rating-chart@v1
         with:
           chess_username: HongKongPh00ie
           time_class: rapid
