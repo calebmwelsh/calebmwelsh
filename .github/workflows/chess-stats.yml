@@ -17,7 +17,6 @@ jobs:
       - name: Chess Rating Chart
         uses: mmzeynalli/chess-rating-chart@v1
         with:
-          chess_username: HongKongPh00ie
-          time_class: rapid
-        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CHESS_COM_USERNAME: HongKongPh00ie
+          CHESS_COM_TIME_CLASS: rapid
